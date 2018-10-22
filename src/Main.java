@@ -5,6 +5,10 @@ public class Main {
         System.out.println("Edit edit");
         System.out.println("Next Commit");
 
+<<<<<<< HEAD
         System.out.println("Master");
+=======
+        System.out.println("branch2");
+>>>>>>> branch1
     }
 }
